@@ -456,3 +456,11 @@ nav.close ~ .dashboard .top{
         width: 100%;
     }
 }
+
+table , th, td{
+    text-align:center
+}
+.table table-striped{
+    margin-left: auto;
+    margin-right: auto;
+}
